@@ -5,5 +5,5 @@
         <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 
-    <style name="Theme.Operaciones_Basicas" parent="Base.Theme.Operaciones_Basicas" />
+    <style name="OperationsBasics" parent="Base.Theme.Operaciones_Basicas" />
 </resources>
