@@ -15,9 +15,9 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        edNumero1=findViewById(R.id.txtnumero1);
-        edNumero2=findViewById(R.id.txtnumero2);
-        tvResultado=findViewById(R.id.lblresultado);
+        edNumero1=findViewById(R.id.txtnumsuma1);
+        edNumero2=findViewById(R.id.txtnumsuma2);
+        tvResultado=findViewById(R.id.lblresultadosuma);
     }
 
     public void sumar_numeros(View view){
