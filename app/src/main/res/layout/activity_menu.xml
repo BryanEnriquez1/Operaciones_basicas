@@ -45,8 +45,8 @@
 
     <TextView
         android:id="@+id/lblTitulo4"
-        android:layout_width="319dp"
-        android:layout_height="97dp"
+        android:layout_width="327dp"
+        android:layout_height="116dp"
         android:text="OPERACIONES BASICAS"
         android:textAlignment="center"
         android:textSize="34sp"
